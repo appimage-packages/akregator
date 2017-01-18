@@ -48,6 +48,7 @@ frameworks:
     - breeze
     - kcmutils
     - knotifyconfig
+    - kparts
 type: git
 url: http://anongit.kde.org/akregator
 buildsystem: cmake
