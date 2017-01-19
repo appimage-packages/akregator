@@ -51,6 +51,7 @@ frameworks:
     - kparts
     - syntax-highlighting
     - ktexteditor
+    - kmime
     - akonadi-mime
 type: git
 url: http://anongit.kde.org/akregator
