@@ -53,6 +53,7 @@ frameworks:
     - ktexteditor
     - kmime
     - kitemmodels
+    - kdesignerplugin
     - akonadi
     - akonadi-mime
 type: git
