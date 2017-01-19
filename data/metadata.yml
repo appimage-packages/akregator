@@ -56,6 +56,7 @@ frameworks:
     - kdesignerplugin
     - akonadi
     - akonadi-mime
+    - grantleetheme
 type: git
 url: http://anongit.kde.org/akregator
 buildsystem: cmake
