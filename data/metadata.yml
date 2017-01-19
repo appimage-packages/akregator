@@ -49,6 +49,7 @@ frameworks:
     - kcmutils
     - knotifyconfig
     - kparts
+    - syntax-highlighting
     - ktexteditor
 type: git
 url: http://anongit.kde.org/akregator
