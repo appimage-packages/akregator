@@ -62,6 +62,7 @@ frameworks:
     - kcontacts
     - akonadi-contacts
     - kldap
+    - akonadi-search
     - libkdepim
 type: git
 url: http://anongit.kde.org/akregator
