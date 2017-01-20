@@ -2,6 +2,7 @@ name: akregator
 packages:
   - libldap2-dev
   - libsasl2-dev
+  - libxapian-dev
 frameworks:
   build_kf5: true
   frameworks:
@@ -65,6 +66,7 @@ frameworks:
     - plasma-integration
     - threadweaver
     - krunner
+    - kcalcore
     - akonadi-search
     - libkdepim
 type: git
