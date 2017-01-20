@@ -63,6 +63,7 @@ frameworks:
     - akonadi-contacts
     - kldap
     - plasma-integration
+    - threadweaver
     - krunner
     - akonadi-search
     - libkdepim
