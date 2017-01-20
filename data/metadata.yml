@@ -66,7 +66,7 @@ frameworks:
     - plasma-integration
     - threadweaver
     - krunner
-    - kdelib4support
+    - kdelibs4support
     - kcalcore
     - akonadi-search
     - libkdepim
