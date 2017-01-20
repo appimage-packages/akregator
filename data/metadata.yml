@@ -58,7 +58,7 @@ frameworks:
     - akonadi-mime
     - grantleetheme
     - kontactinterface
-    - akonadi-contact
+    - akonadi-contacts
     - libkdepim
 type: git
 url: http://anongit.kde.org/akregator
