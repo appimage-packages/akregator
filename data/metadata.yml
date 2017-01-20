@@ -58,6 +58,7 @@ frameworks:
     - akonadi-mime
     - grantleetheme
     - kontactinterface
+    - kcontacts
     - akonadi-contacts
     - libkdepim
 type: git
