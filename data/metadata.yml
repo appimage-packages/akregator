@@ -62,9 +62,6 @@ frameworks:
     - kcontacts
     - akonadi-contacts
     - kldap
-    - kwayland
-    - kdeclarative
-    - breeze
     - plasma-integration
     - krunner
     - akonadi-search
