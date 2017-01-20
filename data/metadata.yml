@@ -1,6 +1,7 @@
 name: akregator
 packages:
   - libldap2-dev
+  - libsasl2-dev
 frameworks:
   build_kf5: true
   frameworks:
