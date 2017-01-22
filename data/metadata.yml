@@ -67,6 +67,7 @@ frameworks:
     - threadweaver
     - krunner
     - kunitconversion
+    - kinit
     - kded
     - kdelibs4support
     - kcalcore
