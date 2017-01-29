@@ -83,6 +83,7 @@ frameworks:
     - kdepim-apps-libs
     - libgravatar
     - kidentitymanagement
+    - kmailtransport
     - messagelib
 type: git
 url: http://anongit.kde.org/akregator
