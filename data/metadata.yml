@@ -78,7 +78,7 @@ frameworks:
     - libkleo
     - akonadi-notes
     - kimap
-    - pimtextedit
+    - kpimtextedit
     - pimcommon
     - kdepim-apps-libs
     - messagelib
