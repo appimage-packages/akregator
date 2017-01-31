@@ -1,5 +1,6 @@
 # akregator
-[![Build Status](http://aci.pangea.pub/job/akregator-appimage/job/master/badge/icon)](http://aci.pangea.pub/job/akregator-appimage/job/master/)
+Master branch:
+[![Build Status](http://aci.pangea.pub/job/akregator-master-appimage/badge/icon)](http://aci.pangea.pub/job/akregator-master-appimage/)
 
 AppImage for KDE akregator
 
@@ -8,3 +9,7 @@ Akregator is a news feed reader by KDE. It enables you to follow news sites, blo
 
 Job homepage url
 https://www.kde.org/applications/internet/akregator/
+
+S3 Download:
+master:
+https://s3-eu-central-1.amazonaws.com/ds9-apps/index.html#!/akregator-master-appimage%2F
