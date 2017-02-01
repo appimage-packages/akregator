@@ -1,4 +1,5 @@
 name: akregator
+binary: akregator
 packages:
   - libldap2-dev
   - libsasl2-dev
